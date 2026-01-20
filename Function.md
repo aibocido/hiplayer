@@ -1,6 +1,8 @@
 # Function
 
-introduce
+__(1) introduce__
+
+__(2) sow__
 
 ## Basic Functions: 
 
