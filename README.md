@@ -1,5 +1,5 @@
 # hiplayer
 A player for audio and video.
 
-Link: Document
+Link: [Document](../Documents.md)
       Function
